@@ -1,4 +1,5 @@
 このプログラムはC++環境でC言語を使って作成しました。 
+
 リフレッシュレート144Hzの環境で開発しました。
 
 特徴
@@ -17,6 +18,7 @@
 ーーーーーーーーーーーーーーーーーーーー
 
 This program was created using C language in a C++ development environment.
+
 It was developed on a system with a 144Hz refresh rate.
 
 Features
