@@ -1,8 +1,7 @@
 # Minesweeper-01
 
-このプログラムはC++環境でC言語を使って作成しました。
-
-リフレッシュレート144Hzの環境で開発しました。
+- このプログラムはC++環境でC言語を使って作成しました。
+- リフレッシュレート144Hzの環境で開発しました。
 
 特徴
 - 直感的な操作が可能
@@ -13,11 +12,8 @@
 - Visual Studio 2022
 
 クレジット
-
-- クローン元のリポジトリ：[Coding-Ocean] { https://github.com/Coding-Ocean/tetris.git }
-
-- 元のコードの解説と制作： { https://youtu.be/sUz6aLWS4TU?si=3HxPpILLRmIuwdFL } 
-
+- クローン元のリポジトリ：[Coding-Ocean] { https://github.com/Coding-Ocean/game_empty.git }
+  
 ーーーーーーーーーーーーーーーーーーーー
 
 This program was created using C language in a C++ development environment.
@@ -33,6 +29,4 @@ Technologies
 - Visual Studio 2022
 
 Credits
-- Cloned from the repository: [Coding-Ocean] { https://github.com/Coding-Ocean/tetris.git }
-- Original code explained and produced in this video: { https://youtu.be/sUz6aLWS4TU?si=3HxPpILLRmIuwdFL } 
-
+- Cloned from the repository: [Coding-Ocean] { https://github.com/Coding-Ocean/game_empty.git }
