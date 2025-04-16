@@ -6,7 +6,7 @@
 - 直感的な操作が可能
 - レベルとマスの数を変更可能
 
-使用技術
+開発環境
 - C（C++）
 - Visual Studio 2022
 - リフレッシュレート144Hzの環境で開発しました。
@@ -22,7 +22,7 @@ Features
 - Intuitive controls for smooth gameplay
 - Customizable levels and grid size
 
-Technologies
+Development Environment
 - C (C++)
 - Visual Studio 2022
 It was developed on a system with a 144Hz refresh rate.
